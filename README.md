@@ -4,7 +4,7 @@
 - bash docker.sh
 
 1. Подготовить приложение к запуску
-- bash build.sh
+- bash prepare.sh
 
 2. Запустить при помощи docker-compose
 - sudo docker compose up
