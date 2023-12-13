@@ -1,0 +1,7 @@
+.mySelect {
+    padding: 5px 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background: rgb(45, 45, 45);
+    color: #989898;
+}
